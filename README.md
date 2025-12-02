@@ -1,5 +1,9 @@
 # Ansible
 ![Banner](ansible.png) 
+
+
+
+
 Ansible is a powerful **open-source automation tool** used primarily for configuration management, application deployment, and task automation. It’s particularly known for its simplicity, ease of use, and agentless architecture, which allows it to operate without requiring any special agent to be installed on target machines.
 
 Here’s a detailed overview of Ansible:
